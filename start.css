@@ -1,0 +1,24 @@
+.colorBox {
+    display: flex;
+  }
+
+  #yellow {
+    order: -1;
+  }
+
+  #red {
+    order: 0;
+  }
+  
+  #green {
+    order: 1;
+  }
+  
+  #orange {
+    order: 2;
+    flex: 1;
+  }
+  
+  #blue {
+    order: 3;
+  }
